@@ -1,4 +1,4 @@
-
+ 
 class Solution {
   public:
     int solve(int ind, vector<int>& cost, int w, vector<vector<int>>&dp){
